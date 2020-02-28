@@ -1,0 +1,13 @@
+{
+  "name": "fsndesafiojavascript-i",
+  "version": "1.0.0",
+  "description": "desafio javascript I DH",
+  "main": "index.js",
+  "repository": "https://github.com/LucasPedrosoTI/FSN-desafio-javascript-I.git",
+  "author": "lucaspedrosoti <lps1010@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
